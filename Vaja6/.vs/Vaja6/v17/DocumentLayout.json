@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tilen.kroflic.20632\\Desktop\\Vaja06\\Tilen_Kroflic_Vaja06\\Vaja6\\",
+  "WorkspaceRootPath": "C:\\Users\\tilen.kroflic.20632\\source\\repos\\Tilen_Kroflic_Vaja06\\Vaja6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA1E1221-2841-4EF5-BBFB-78DAE34F4783}|Vaja6.csproj|c:\\users\\tilen.kroflic.20632\\desktop\\vaja06\\tilen_kroflic_vaja06\\vaja6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA1E1221-2841-4EF5-BBFB-78DAE34F4783}|Vaja6.csproj|c:\\users\\tilen.kroflic.20632\\source\\repos\\tilen_kroflic_vaja06\\vaja6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1E1221-2841-4EF5-BBFB-78DAE34F4783}|Vaja6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tilen.kroflic.20632\\Desktop\\Vaja06\\Tilen_Kroflic_Vaja06\\Vaja6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tilen.kroflic.20632\\source\\repos\\Tilen_Kroflic_Vaja06\\Vaja6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tilen.kroflic.20632\\Desktop\\Vaja06\\Tilen_Kroflic_Vaja06\\Vaja6\\Program.cs",
+              "ToolTip": "C:\\Users\\tilen.kroflic.20632\\source\\repos\\Tilen_Kroflic_Vaja06\\Vaja6\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T16:42:10.382Z",
               "EditorCaption": ""

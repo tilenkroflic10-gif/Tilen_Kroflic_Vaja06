@@ -14,7 +14,23 @@ namespace vaja6 {
         private string u_geslo;
         private static int stIg = 1;
 
-		//Ustvari novega igralca z začetnimi praznimi podatki
+        public Igralec(Igralec drugi)
+        {
+            this.u_ime = drugi.u_ime;
+            this.u_geslo = drugi.u_geslo;
+            this.id = stIg;   
+            stIg++;
+        }
+
+        public Igralec(string ime)
+        {
+            this.u_ime = ime.Trim();
+            this.u_geslo = "";
+            this.id = stIg;
+            stIg++;
+        }
+
+        //Ustvari novega igralca z začetnimi praznimi podatki
         public Igralec() {
             u_ime = "";   
             u_geslo = "";
