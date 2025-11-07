@@ -14,13 +14,15 @@ namespace vaja6 {
         public string u_geslo;
         public static int stIg = 1;
 
+		//Ustvari novega igralca z začetnimi praznimi podatki
         public Igralec() {
-            u_ime = "";
+            u_ime = "";   
             u_geslo = "";
             id = stIg;
             stIg++;
         }
 
+		//Omogoča branje ID številke igralca.
         public int Id {
             get
             {
@@ -28,6 +30,7 @@ namespace vaja6 {
             }
         }
 
+		//Omogoča branje in spreminjanje uporabniškega imena.
         public string U_ime {
             get
             {
@@ -39,6 +42,7 @@ namespace vaja6 {
             }
         }
 
+		//Omogoča branje in spreminjanje gesla.
         public string U_geslo
         {
             get
@@ -51,6 +55,7 @@ namespace vaja6 {
             }
         }
 
+		//Vrne trenutno število ustvarjenih igralcev.
         public static int StIg
         {
             get { return stIg; }
